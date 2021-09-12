@@ -1,0 +1,8 @@
+name: PoliceStick
+version: '${project.version}'
+main: me.nexcreep.policestick.Main
+api-version: 1.17
+prefix: policestick
+authors: [ NexCreep ]
+description: A Plugin that with a command give you a stick that let you to jail a player into a prison.
+website: https://nexcreep.es/
